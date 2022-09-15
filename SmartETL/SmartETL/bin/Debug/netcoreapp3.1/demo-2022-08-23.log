@@ -1,0 +1,50 @@
+2022-08-23 22:59:48.3277||DEBUG|SmartETL.Program|init main function 
+2022-08-23 22:59:49.1502||DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Hosting starting 
+2022-08-23 22:59:49.3516||DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Hosting started 
+2022-08-23 22:59:49.3516||DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly SmartETL 
+2022-08-23 22:59:49.3866||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2.0 GET https://localhost:44333/index.html   
+2022-08-23 22:59:49.3866||DEBUG|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|Wildcard detected, all requests with hosts will be allowed. 
+2022-08-23 22:59:49.4010||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2022-08-23 22:59:49.4166||DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/index.html' 
+2022-08-23 22:59:49.4166||DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints 
+2022-08-23 22:59:49.5782||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 192.1056ms 200 text/html;charset=utf-8 
+2022-08-23 22:59:49.6551||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2.0 GET https://localhost:44333/swagger/v1/swagger.json   
+2022-08-23 22:59:49.6551||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2022-08-23 22:59:49.6551||DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/swagger/v1/swagger.json' 
+2022-08-23 22:59:49.6551||DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints 
+2022-08-23 22:59:49.6907||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 35.5467ms 200 application/json;charset=utf-8 
+2022-08-23 22:59:54.9220||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2.0 GET https://localhost:44333/Credentials   
+2022-08-23 22:59:54.9220||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2022-08-23 22:59:54.9272||DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/Credentials' 
+2022-08-23 22:59:54.9272||DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'SmartETL.Controllers.SourceController.GetSourceAPICredentials (SmartETL)' with route pattern 'Credentials' is valid for the request path '/Credentials' 
+2022-08-23 22:59:54.9272||DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'SmartETL.Controllers.SourceController.GetSourceAPICredentials (SmartETL)' 
+2022-08-23 22:59:54.9417||INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'SmartETL.Controllers.SourceController.GetSourceAPICredentials (SmartETL)' 
+2022-08-23 22:59:54.9417||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory|Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexTypeModelBinderProvider 
+2022-08-23 22:59:54.9704||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "GetSourceAPICredentials", controller = "Source"}. Executing controller action with signature Void GetSourceAPICredentials() on controller SmartETL.Controllers.SourceController (SmartETL). 
+2022-08-23 22:59:54.9734||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of authorization filters (in the following order): None 
+2022-08-23 22:59:54.9734||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of resource filters (in the following order): None 
+2022-08-23 22:59:54.9734||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000) 
+2022-08-23 22:59:54.9734||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of exception filters (in the following order): None 
+2022-08-23 22:59:54.9734||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000) 
+2022-08-23 22:59:54.9734||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing controller factory for controller SmartETL.Controllers.SourceController (SmartETL) 
+2022-08-23 22:59:54.9734||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed controller factory for controller SmartETL.Controllers.SourceController (SmartETL) 
+2022-08-23 22:59:54.9734||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2022-08-23 22:59:54.9734||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2022-08-23 22:59:54.9734||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2022-08-23 22:59:54.9734||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2022-08-23 22:59:54.9734||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method SmartETL.Controllers.SourceController.GetSourceAPICredentials (SmartETL) - Validation state: Valid 
+2022-08-23 22:59:54.9734||INFO|SmartETL.Controllers.SourceController|SourceController method called!!! 
+2022-08-23 22:59:54.9734||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action method SmartETL.Controllers.SourceController.GetSourceAPICredentials (SmartETL), returned result Microsoft.AspNetCore.Mvc.EmptyResult in 0.6351ms. 
+2022-08-23 22:59:54.9734||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2022-08-23 22:59:54.9734||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2022-08-23 22:59:54.9734||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2022-08-23 22:59:54.9734||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2022-08-23 22:59:54.9734||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2022-08-23 22:59:54.9734||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2022-08-23 22:59:54.9734||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Before executing action result Microsoft.AspNetCore.Mvc.EmptyResult. 
+2022-08-23 22:59:54.9734||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|After executing action result Microsoft.AspNetCore.Mvc.EmptyResult. 
+2022-08-23 22:59:54.9734||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2022-08-23 22:59:54.9734||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2022-08-23 22:59:54.9936||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action SmartETL.Controllers.SourceController.GetSourceAPICredentials (SmartETL) in 14.4657ms 
+2022-08-23 22:59:54.9936||INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'SmartETL.Controllers.SourceController.GetSourceAPICredentials (SmartETL)' 
+2022-08-23 22:59:54.9936||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 75.3997ms 200  
