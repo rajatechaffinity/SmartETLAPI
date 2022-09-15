@@ -1,0 +1,252 @@
+2022-08-23 22:59:48.1812 Info Message Template Auto Format enabled
+2022-08-23 22:59:48.2021 Info Loading assembly: NLog.Web.AspNetCore
+2022-08-23 22:59:48.2570 Info Adding target FileTarget(Name=alldata)
+2022-08-23 22:59:48.2570 Info Adding target FileTarget(Name=otherFile-web)
+2022-08-23 22:59:48.3049 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-23 22:59:48.3049 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2022-08-23 22:59:49.1364 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 10:59:10.5975 Info Message Template Auto Format enabled
+2022-08-24 10:59:10.6412 Info Loading assembly: NLog.Web.AspNetCore
+2022-08-24 10:59:10.7179 Info Adding target FileTarget(Name=alldata)
+2022-08-24 10:59:10.7492 Info Adding target FileTarget(Name=otherFile-web)
+2022-08-24 10:59:10.8112 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 10:59:10.8180 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2022-08-24 10:59:13.2083 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 11:02:40.7797 Info Message Template Auto Format enabled
+2022-08-24 11:02:40.7875 Info Loading assembly: NLog.Web.AspNetCore
+2022-08-24 11:02:40.8274 Info Adding target FileTarget(Name=alldata)
+2022-08-24 11:02:40.8274 Info Adding target FileTarget(Name=otherFile-web)
+2022-08-24 11:02:40.8495 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 11:02:40.8495 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2022-08-24 11:02:41.2094 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 11:05:36.7585 Info Message Template Auto Format enabled
+2022-08-24 11:05:36.7585 Info Loading assembly: NLog.Web.AspNetCore
+2022-08-24 11:05:36.8011 Info Adding target FileTarget(Name=alldata)
+2022-08-24 11:05:36.8044 Info Adding target FileTarget(Name=otherFile-web)
+2022-08-24 11:05:36.8299 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 11:05:36.8380 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2022-08-24 11:05:37.1351 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 11:05:48.5389 Info Message Template Auto Format enabled
+2022-08-24 11:05:48.5389 Info Loading assembly: NLog.Web.AspNetCore
+2022-08-24 11:05:48.5910 Info Adding target FileTarget(Name=alldata)
+2022-08-24 11:05:48.5910 Info Adding target FileTarget(Name=otherFile-web)
+2022-08-24 11:05:48.6164 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 11:05:48.6164 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2022-08-24 11:05:48.9194 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 11:14:43.9218 Info Message Template Auto Format enabled
+2022-08-24 11:14:43.9313 Info Loading assembly: NLog.Web.AspNetCore
+2022-08-24 11:14:43.9672 Info Adding target FileTarget(Name=alldata)
+2022-08-24 11:14:43.9672 Info Adding target FileTarget(Name=otherFile-web)
+2022-08-24 11:14:43.9976 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 11:14:44.0051 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2022-08-24 11:14:44.3278 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 11:17:42.8290 Info Message Template Auto Format enabled
+2022-08-24 11:17:42.8371 Info Loading assembly: NLog.Web.AspNetCore
+2022-08-24 11:17:42.8676 Info Adding target FileTarget(Name=alldata)
+2022-08-24 11:17:42.8676 Info Adding target FileTarget(Name=otherFile-web)
+2022-08-24 11:17:42.8905 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 11:17:42.8980 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2022-08-24 11:17:43.1722 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 11:30:57.6949 Info Message Template Auto Format enabled
+2022-08-24 11:30:57.6949 Info Loading assembly: NLog.Web.AspNetCore
+2022-08-24 11:30:57.7406 Info Adding target FileTarget(Name=alldata)
+2022-08-24 11:30:57.7406 Info Adding target FileTarget(Name=otherFile-web)
+2022-08-24 11:30:57.7665 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 11:30:57.7719 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2022-08-24 11:30:58.0136 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 11:31:05.2864 Info Message Template Auto Format enabled
+2022-08-24 11:31:05.2864 Info Loading assembly: NLog.Web.AspNetCore
+2022-08-24 11:31:05.3304 Info Adding target FileTarget(Name=alldata)
+2022-08-24 11:31:05.3335 Info Adding target FileTarget(Name=otherFile-web)
+2022-08-24 11:31:05.3519 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 11:31:05.3519 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2022-08-24 11:31:05.6198 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 11:32:00.8386 Info Message Template Auto Format enabled
+2022-08-24 11:32:00.8485 Info Loading assembly: NLog.Web.AspNetCore
+2022-08-24 11:32:00.8866 Info Adding target FileTarget(Name=alldata)
+2022-08-24 11:32:00.8866 Info Adding target FileTarget(Name=otherFile-web)
+2022-08-24 11:32:00.9095 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 11:32:00.9150 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2022-08-24 11:32:01.1931 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 11:40:35.4577 Info Message Template Auto Format enabled
+2022-08-24 11:40:35.4577 Info Loading assembly: NLog.Web.AspNetCore
+2022-08-24 11:40:35.4990 Info Adding target FileTarget(Name=alldata)
+2022-08-24 11:40:35.4990 Info Adding target FileTarget(Name=otherFile-web)
+2022-08-24 11:40:35.5257 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 11:40:35.5257 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2022-08-24 11:40:35.7887 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 11:44:51.5773 Info Message Template Auto Format enabled
+2022-08-24 11:44:51.5859 Info Loading assembly: NLog.Web.AspNetCore
+2022-08-24 11:44:51.6226 Info Adding target FileTarget(Name=alldata)
+2022-08-24 11:44:51.6226 Info Adding target FileTarget(Name=otherFile-web)
+2022-08-24 11:44:51.6539 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 11:44:51.6642 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2022-08-24 11:44:51.9051 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 11:48:38.3812 Info Message Template Auto Format enabled
+2022-08-24 11:48:38.3812 Info Loading assembly: NLog.Web.AspNetCore
+2022-08-24 11:48:38.4218 Info Adding target FileTarget(Name=alldata)
+2022-08-24 11:48:38.4218 Info Adding target FileTarget(Name=otherFile-web)
+2022-08-24 11:48:38.4459 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 11:48:38.4459 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2022-08-24 11:48:38.7557 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 11:48:56.4221 Info Message Template Auto Format enabled
+2022-08-24 11:48:56.4305 Info Loading assembly: NLog.Web.AspNetCore
+2022-08-24 11:48:56.4664 Info Adding target FileTarget(Name=alldata)
+2022-08-24 11:48:56.4664 Info Adding target FileTarget(Name=otherFile-web)
+2022-08-24 11:48:56.5010 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 11:48:56.5084 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2022-08-24 11:48:56.7442 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 11:49:13.8830 Info Message Template Auto Format enabled
+2022-08-24 11:49:13.8830 Info Loading assembly: NLog.Web.AspNetCore
+2022-08-24 11:49:13.9342 Info Adding target FileTarget(Name=alldata)
+2022-08-24 11:49:13.9342 Info Adding target FileTarget(Name=otherFile-web)
+2022-08-24 11:49:13.9590 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 11:49:13.9590 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2022-08-24 11:49:14.2302 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 11:49:37.9525 Info Message Template Auto Format enabled
+2022-08-24 11:49:37.9701 Info Loading assembly: NLog.Web.AspNetCore
+2022-08-24 11:49:38.0447 Info Adding target FileTarget(Name=alldata)
+2022-08-24 11:49:38.0447 Info Adding target FileTarget(Name=otherFile-web)
+2022-08-24 11:49:38.0753 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 11:49:38.0853 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2022-08-24 11:49:38.3386 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 12:25:26.2787 Info Message Template Auto Format enabled
+2022-08-24 12:25:26.3143 Info Loading assembly: NLog.Web.AspNetCore
+2022-08-24 12:25:26.4403 Info Adding target FileTarget(Name=alldata)
+2022-08-24 12:25:26.4629 Info Adding target FileTarget(Name=otherFile-web)
+2022-08-24 12:25:26.5717 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 12:25:26.5856 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2022-08-24 12:25:28.6270 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 12:44:55.0526 Info Message Template Auto Format enabled
+2022-08-24 12:44:55.0928 Info Loading assembly: NLog.Web.AspNetCore
+2022-08-24 12:44:55.2205 Info Adding target FileTarget(Name=alldata)
+2022-08-24 12:44:55.2400 Info Adding target FileTarget(Name=otherFile-web)
+2022-08-24 12:44:55.3523 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 12:44:55.3721 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2022-08-24 12:44:59.1480 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 12:51:01.7119 Info Message Template Auto Format enabled
+2022-08-24 12:51:01.7458 Info Loading assembly: NLog.Web.AspNetCore
+2022-08-24 12:51:01.8704 Info Adding target FileTarget(Name=alldata)
+2022-08-24 12:51:02.0055 Info Adding target FileTarget(Name=otherFile-web)
+2022-08-24 12:51:02.1139 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 12:51:02.1139 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2022-08-24 12:51:03.9169 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 13:35:48.4053 Info Message Template Auto Format enabled
+2022-08-24 13:35:48.4377 Info Loading assembly: NLog.Web.AspNetCore
+2022-08-24 13:35:48.5615 Info Adding target FileTarget(Name=alldata)
+2022-08-24 13:35:48.5834 Info Adding target FileTarget(Name=otherFile-web)
+2022-08-24 13:35:48.6664 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 13:35:48.6848 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2022-08-24 13:35:50.5389 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 13:48:04.6147 Info Message Template Auto Format enabled
+2022-08-24 13:48:04.6478 Info Loading assembly: NLog.Web.AspNetCore
+2022-08-24 13:48:04.7782 Info Adding target FileTarget(Name=alldata)
+2022-08-24 13:48:04.7930 Info Adding target FileTarget(Name=otherFile-web)
+2022-08-24 13:48:04.8931 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 13:48:04.9165 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2022-08-24 13:48:06.7161 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 13:49:21.5211 Info Message Template Auto Format enabled
+2022-08-24 13:49:21.5703 Info Loading assembly: NLog.Web.AspNetCore
+2022-08-24 13:49:21.7134 Info Adding target FileTarget(Name=alldata)
+2022-08-24 13:49:21.7373 Info Adding target FileTarget(Name=otherFile-web)
+2022-08-24 13:49:21.8350 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 13:49:21.8548 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2022-08-24 13:49:23.6235 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 16:05:59.2703 Info Message Template Auto Format enabled
+2022-08-24 16:05:59.2903 Info Loading assembly: NLog.Web.AspNetCore
+2022-08-24 16:05:59.3786 Info Adding target FileTarget(Name=alldata)
+2022-08-24 16:05:59.3989 Info Adding target FileTarget(Name=otherFile-web)
+2022-08-24 16:05:59.4925 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 16:05:59.5106 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2022-08-24 16:06:01.2917 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 16:06:23.6668 Info Message Template Auto Format enabled
+2022-08-24 16:06:23.6981 Info Loading assembly: NLog.Web.AspNetCore
+2022-08-24 16:06:23.7597 Info Adding target FileTarget(Name=alldata)
+2022-08-24 16:06:23.7735 Info Adding target FileTarget(Name=otherFile-web)
+2022-08-24 16:06:23.8338 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 16:06:23.8338 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2022-08-24 16:06:25.2710 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 16:08:58.4717 Info Message Template Auto Format enabled
+2022-08-24 16:08:58.5164 Info Loading assembly: NLog.Web.AspNetCore
+2022-08-24 16:08:58.5947 Info Adding target FileTarget(Name=alldata)
+2022-08-24 16:08:58.6094 Info Adding target FileTarget(Name=otherFile-web)
+2022-08-24 16:08:58.6517 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 16:08:58.6681 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2022-08-24 16:09:00.1516 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 16:55:44.3081 Info Message Template Auto Format enabled
+2022-08-24 16:55:44.3323 Info Loading assembly: NLog.Web.AspNetCore
+2022-08-24 16:55:44.3936 Info Adding target FileTarget(Name=alldata)
+2022-08-24 16:55:44.4047 Info Adding target FileTarget(Name=otherFile-web)
+2022-08-24 16:55:44.4457 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 16:55:44.4457 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2022-08-24 16:55:45.8292 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 16:59:50.0219 Info Message Template Auto Format enabled
+2022-08-24 16:59:50.0430 Info Loading assembly: NLog.Web.AspNetCore
+2022-08-24 16:59:50.1180 Info Adding target FileTarget(Name=alldata)
+2022-08-24 16:59:50.1377 Info Adding target FileTarget(Name=otherFile-web)
+2022-08-24 16:59:50.2180 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 16:59:50.2273 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2022-08-24 16:59:51.2097 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 17:01:20.7341 Info Message Template Auto Format enabled
+2022-08-24 17:01:20.7558 Info Loading assembly: NLog.Web.AspNetCore
+2022-08-24 17:01:20.8224 Info Adding target FileTarget(Name=alldata)
+2022-08-24 17:01:20.8341 Info Adding target FileTarget(Name=otherFile-web)
+2022-08-24 17:01:20.8872 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 17:01:20.8956 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2022-08-24 17:01:22.1187 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 17:07:51.0363 Info Message Template Auto Format enabled
+2022-08-24 17:07:51.0572 Info Loading assembly: NLog.Web.AspNetCore
+2022-08-24 17:07:51.1393 Info Adding target FileTarget(Name=alldata)
+2022-08-24 17:07:51.1617 Info Adding target FileTarget(Name=otherFile-web)
+2022-08-24 17:07:51.2519 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 17:07:51.2695 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2022-08-24 17:07:52.6108 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 18:00:54.7216 Info Message Template Auto Format enabled
+2022-08-24 18:00:54.7461 Info Loading assembly: NLog.Web.AspNetCore
+2022-08-24 18:00:54.8186 Info Adding target FileTarget(Name=alldata)
+2022-08-24 18:00:54.8733 Info Adding target FileTarget(Name=otherFile-web)
+2022-08-24 18:00:54.9298 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 18:00:54.9298 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2022-08-24 18:00:56.5922 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 21:34:31.7293 Info Message Template Auto Format enabled
+2022-08-24 21:34:31.7504 Info Loading assembly: NLog.Web.AspNetCore
+2022-08-24 21:34:31.8076 Info Adding target FileTarget(Name=alldata)
+2022-08-24 21:34:31.8076 Info Adding target FileTarget(Name=otherFile-web)
+2022-08-24 21:34:31.8558 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-08-24 21:34:31.8558 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2022-08-24 21:34:34.4683 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-09-01 12:19:52.0582 Info Message Template Auto Format enabled
+2022-09-01 12:19:52.2251 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-01 12:19:52.2752 Info Adding target FileTarget(Name=alldata)
+2022-09-01 12:19:52.3682 Info Adding target FileTarget(Name=otherFile-web)
+2022-09-01 12:19:52.4179 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-09-01 12:19:52.4179 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2022-09-01 17:11:43.3648 Info Message Template Auto Format enabled
+2022-09-01 17:11:43.4172 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-01 17:11:43.5361 Info Adding target FileTarget(Name=alldata)
+2022-09-01 17:11:43.5581 Info Adding target FileTarget(Name=otherFile-web)
+2022-09-01 17:11:43.6419 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-09-01 17:11:43.6560 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2022-09-01 17:13:00.5896 Info Shutdown() called. Logger closing...
+2022-09-01 17:13:00.5896 Info Closing old configuration.
+2022-09-01 17:13:00.6135 Info Logger has been closed down.
+2022-09-01 17:13:00.6219 Info AppDomain Shutting down. LogFactory closing...
+2022-09-01 17:13:00.6219 Info LogFactory has been closed.
+2022-09-01 17:13:18.1202 Info Message Template Auto Format enabled
+2022-09-01 17:13:18.1703 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-01 17:13:18.2260 Info Adding target FileTarget(Name=alldata)
+2022-09-01 17:13:18.2260 Info Adding target FileTarget(Name=otherFile-web)
+2022-09-01 17:13:18.2788 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-09-01 17:13:18.2788 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2022-09-01 17:36:41.3829 Info Message Template Auto Format enabled
+2022-09-01 17:36:41.4244 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-01 17:36:41.5250 Info Adding target FileTarget(Name=alldata)
+2022-09-01 17:36:41.5592 Info Adding target FileTarget(Name=otherFile-web)
+2022-09-01 17:36:41.6233 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-09-01 17:36:41.6305 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2022-09-01 18:49:22.6910 Info Message Template Auto Format enabled
+2022-09-01 18:49:22.7066 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-01 18:49:22.7721 Info Adding target FileTarget(Name=alldata)
+2022-09-01 18:49:22.7839 Info Adding target FileTarget(Name=otherFile-web)
+2022-09-01 18:49:22.8258 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\rajamanikandank\Documents\Projects\SmartETL\SmartETL\bin\Debug\netcoreapp3.1\nlog.config
+2022-09-01 18:49:22.8392 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
